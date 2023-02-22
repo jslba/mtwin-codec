@@ -1,0 +1,25 @@
+{
+	"name": "mtwin-codec",
+	"version": "0.0.1",
+	"description": "An implementation of Codec",
+	"main": "source/index.js",
+	"scripts": {
+		"test": "jest --config=test/jest.config.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jslba/mtwin-codec.git"
+	},
+	"keywords": [
+		"haxe"
+	],
+	"author": "Angelisium",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jslba/mtwin-codec/issues"
+	},
+	"homepage": "https://github.com/jslba/mtwin-codec",
+	"devDependencies": {
+		"jest": "^29.4.3"
+	}
+}
