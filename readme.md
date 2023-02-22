@@ -41,7 +41,7 @@ public decode(data: String): String
 ```
 
 ```hx
-private code(data: String, mode: Int = 0): String
+private code(data: String, ?mode: Int = 0): String
 ```
 
 [index]: /source/index.js
