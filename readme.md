@@ -46,4 +46,4 @@ private code(data: String, ?mode: Int = 0): String
 
 [index]: /source/index.js
 [mt]: https://motion-twin.com/fr/
-[unittests]: /test/rand.test.js
+[unittests]: /test/codec.test.js
