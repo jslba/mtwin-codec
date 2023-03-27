@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"description": "An implementation of Codec",
 	"main": "source/index.js",
+	"types": "source/index.d.ts",
 	"scripts": {
 		"test": "jest --config=test/jest.config.js"
 	},
