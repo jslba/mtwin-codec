@@ -1,3 +1,4 @@
+export = Codec;
 declare class Codec {
     #private;
     constructor(key: string, version?: string);
