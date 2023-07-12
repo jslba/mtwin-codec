@@ -69,8 +69,4 @@ class Codec {
 	}
 }
 
-try {
-	module.exports = Codec;
-} catch(e) {
-	export { Codec };
-}
+module.exports = Codec;
